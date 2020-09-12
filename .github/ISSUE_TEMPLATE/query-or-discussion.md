@@ -1,10 +1,10 @@
 ---
 name: Query or discussion
-about: Ticket for query or discussion
-title: ''
+about: Clear your queries or discuss on some topic.
+title: '[Discussion]'
 labels: help wanted
 assignees: ''
-
 ---
 
-
+## Describe your topic for discussion or query
+A clear concise description about the topic you want to discuss.

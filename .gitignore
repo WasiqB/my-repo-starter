@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+/.idea/
+*.iml
+
+# Eclipse IDE
+/.settings/
+/.classpath
+/.project
+
+# Output folders
+/target/
+/bin/
+
+# Mac OSX
+.DS_Store
