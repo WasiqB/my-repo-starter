@@ -1,5 +1,7 @@
 {
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
@@ -12,6 +14,20 @@
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "skipCi": "true",
-  "contributors": []
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "WasiqB",
+      "name": "Wasiq Bhamla",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/9130909?v=4",
+      "profile": "https://wasiqb.github.io",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "projectName": "my-repo-starter",
+  "projectOwner": "WasiqB",
+  "repoType": "github",
+  "repoHost": "https://github.com"
 }
