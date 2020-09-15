@@ -7,9 +7,12 @@
 /.classpath
 /.project
 
-# Output folders
+# Other output folders
 /target/
 /bin/
+/test-output/
+/logs/
+/reports/
 
 # Mac OSX
 .DS_Store
