@@ -4,6 +4,8 @@
 Describe the changes done.
 
 ### Checklist
+Select all the applicable options:
+
 - [ ] Breaking (_non-backward compatible_) changes
 - [ ] Tests added for changes
 - [ ] JavaDoc updated in main and test classes
