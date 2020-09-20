@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  maven-deploy: wasiqb/maven-deploy@2.0.10
+  maven-deploy: wasiqb/maven-deploy@2.0.11
 
 branches: &all
   only:
@@ -26,7 +26,6 @@ workflows:
             branches:
               <<: *all
       - maven-deploy/test:
-          command: mvn org.jacoco:jacoco-maven-plugin:prepare-agent install -Pcoverage-per-test
           requires:
             - maven-deploy/build
           filters:

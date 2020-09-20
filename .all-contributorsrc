@@ -14,17 +14,7 @@
     }
   },
   "skipCi": true,
-  "contributors": [
-    {
-      "login": "WasiqB",
-      "name": "Wasiq Bhamla",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/9130909?v=4",
-      "profile": "https://wasiqb.github.io",
-      "contributions": [
-        "code"
-      ]
-    }
-  ],
+  "contributors": [],
   "projectName": "my-repo-starter",
   "projectOwner": "WasiqB",
   "repoType": "github",
